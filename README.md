@@ -1,4 +1,4 @@
-# CNN-Binary-Classification-
+# CNN-Binary-Classification
 
 **Classification_Project**
 
